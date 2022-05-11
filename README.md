@@ -52,7 +52,7 @@ Caso queiram também realizar alguma modificação na placa do TT&C também esta
  
  DIO2 -> 5
  
- **GPS-MODULO**
+ **GPS-MÓDULO**
  
  GND -> GND
  
@@ -68,7 +68,7 @@ Caso queiram também realizar alguma modificação na placa do TT&C também esta
 
 **Montagem da Estação Terrena para Receber os dados do cubesat:**
 
-  Para realizar a recepção e decodificação dos dados enviados pelo Cubesat será necessário a utilização de um dongle SDR(Radio definido por Software) e também a instalação de alguns softwares, o passo a passo para realizar a instalação dos sodtwares estão disponiveis em um PDF(Instalação SDR e AFSK1200 Decoder).
+  Para realizar a recepção e decodificação dos dados enviados pelo Cubesat será necessário a utilização de um dongle SDR(Rádio definido por Software) e também a instalação de alguns softwares, o passo a passo para realizar a instalação dos sodtwares estão disponiveis em um PDF(Instalação SDR# e AFSK1200 Decoder).
 
 **Atenção para que o envio de telemetrias funcione corretamente será necessario realizar a modificação da bateria padrão do KIT, os testes foram realizados usando uma bateria de 3.7V de 8000mAh 
   
