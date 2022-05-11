@@ -52,7 +52,7 @@ Caso queiram também realizar alguma modificação na placa do TT&C também esta
  
  DIO2 -> 5
  
- **GPS**
+ **GPS-MODULO**
  
  GND -> GND
  
