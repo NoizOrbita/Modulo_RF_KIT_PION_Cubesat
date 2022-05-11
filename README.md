@@ -30,6 +30,38 @@ Caso queiram também realizar alguma modificação na placa do TT&C também esta
   
   2- Barra de Pinos 2x10 Fêmea Empilhável 
   
+ **Conexões**
+ 
+ **Ra-02**
+ 
+ GND -> GND
+ 
+ 3.3V -> 3.3V
+ 
+ MISO -> MISO
+ 
+ MOSI -> MOSI
+ 
+ SCK -> SCK
+ 
+ NSS -> 26
+ 
+ DIO0 -> 14
+ 
+ RST -> 13
+ 
+ DIO2 -> 5
+ 
+ **GPS**
+ 
+ GND -> GND
+ 
+ VCC -> 3.3V
+ 
+ TX -> 27
+ 
+ RX -> 36
+  
 **Software:**
   
   Estamos disponibilizando também um software para que possam realizar testes básicos do subsistema.
