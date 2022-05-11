@@ -2,7 +2,7 @@
 Módulo TT&C desenvolvido pela **NoizOrbita** para complementar o Kit Educacional da Pion 
 
 
-Instruções para Desenvolvimento:
+**Instruções para Desenvolvimento:
 
 
 Disponibilizamos **dois** arquivos de fabricação do tipo Gerber:
@@ -22,13 +22,24 @@ Caso queiram também realizar alguma modificação na placa do TT&C também esta
   2-PCB_PCB_NoizOrbita_TT&C_Face_Simples.json
 
 
-Materiais Utilizados no modulo TT&C:
+**Materiais Utilizados no módulo TT&C:
 
   1- Módulo GPS NEO-6M
   
   1- SX1278 LoRa 433MHz Ra-02
   
   2- Barra de Pinos 2x10 Fêmea Empilhável 
+  
+**Software:**
+  
+  Estamos disponibilizando também um software para que possam realizar testes básicos do subsistema.
+
+**Montagem da Estação Terrena para Receber os dados do cubesat:**
+
+  Para realizar a recepção e decodificação dos dados enviados pelo Cubesat será necessário a utilização de um dongle SDR(Radio definido por Software) e também a instalação de alguns softwares, o passo a passo para realizar a instalação dos sodtwares estão disponiveis em um PDF(Instalação SDR e AFSK1200 Decoder).
+
+**Atenção para que o envio de telemetrias funcione corretamente será necessario realizar a modificação da bateria padrão do KIT, os testes foram realizados usando uma bateria de 3.7V de 8000mAh 
+  
   
   
 
